@@ -2,7 +2,6 @@
 It is the code to create the model for image classification using model maker 
 #
 # Our Public Datasets :
-#
 https://www.kaggle.com/moltean/fruits
 #
 https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition
