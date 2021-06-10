@@ -1,7 +1,7 @@
 # modelmaker
 It is the code to create the model for image classification using model maker 
 #
-#Our Public Datasets :
+# Our Public Datasets :
 #
 https://www.kaggle.com/moltean/fruits
 #
